@@ -18,6 +18,11 @@ ul{
     display: grid;
     grid-template-columns: 8% 44% 44%;
 }
+/* li {
+     display: inline;
+    width: 0px; /* not  affected */
+   padding-left: 10%; 
+}
 
 li{
     text-align: center;
